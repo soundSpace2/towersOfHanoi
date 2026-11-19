@@ -1,0 +1,13 @@
+# Compiled binaries
+towers
+towersofhanoi
+
+# Object files and build output
+*.o
+*.obj
+*.exe
+a.out
+
+# Editor and OS cruft
+.DS_Store
+*.swp
